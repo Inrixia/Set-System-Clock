@@ -4,6 +4,8 @@ Sets the system date and time through the use of platform dependent commands.
 
 Only supports Windows and Linux as of now.
 
+This is a fork of [@ConnorChristie/Set-System-Clock](https://github.com/ConnorChristie/Set-System-Clock) with updates & fixes such as async and timezone support from [#4](https://github.com/ConnorChristie/Set-System-Clock/pull/4)
+
 ## Installation
 
 ```

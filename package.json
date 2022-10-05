@@ -1,5 +1,5 @@
 {
-	"name": "set-system-clock",
+	"name": "@inrixia/set-system-clock",
 	"version": "1.0.4",
 	"description": "Sets the system date and time.",
 	"main": "dist/index.js",
