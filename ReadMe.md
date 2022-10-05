@@ -9,7 +9,7 @@ This is a fork of [@ConnorChristie/Set-System-Clock](https://github.com/ConnorCh
 ## Installation
 
 ```
-npm i set-system-clock -s
+npm i @inrixia/set-system-clock -s
 ```
 
 ## API
@@ -24,7 +24,7 @@ DateTimeControl.setDateTime(dateTime: Date);
 ## Code Example
 
 ```js
-import DateTimeControl from "set-system-clock";
+import DateTimeControl from "@inrixia/set-system-clock";
 // or const DateTimeControl = require("set-system-clock");
 
 // Sets the date and time to the date specified, returns a promise resolves once date/time is set
